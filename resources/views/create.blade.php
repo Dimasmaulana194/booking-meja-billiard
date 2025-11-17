@@ -15,7 +15,6 @@
             <label for="harga_per_jam" class="form-label">Harga per Jam</label>
             <input type="number" name="harga_per_jam" id="harga_per_jam" class="form-control" required>
         </div>
-
         <div class="mb-3">
             <label for="asal" class="form-label">Asal Meja</label>
             <select name="asal" id="asal" class="form-control" required>
